@@ -1,6 +1,5 @@
 # 💫 About Me:
-I´m a passionate systems engineer from Unviersidad del Valle focused on Software Development <br>always proactive and ready to learn about the tendencies in the tech field
-
+I am a Systems Enginee from Universidad del Valle experienced in full-stack web application development, specializing in Javascript and Python. My expertise also extends to data analysis using unsupervised algorithms. I possess strong communication and teamwork skills, am resilient, and am passionate about continuously learning new abilities to solve complex problems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fauchx28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabi%C3%A1n-urrutia-ab328b2aa) 
